@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Printer</string>
+    <string name="_200">200</string>
+    <string name="alterar">Alterar</string>
+    <string name="editor_de_etiquetas">Editor de Etiquetas</string>
+    <string name="altura">Altura</string>
+    <string name="largura">Largura</string>
+</resources>
